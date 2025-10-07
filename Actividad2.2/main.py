@@ -1,5 +1,5 @@
 # =============================================================
-# Actividad 2.1. Red Neuronal Hopfield 
+# Actividad 2.2. Red Neuronal Hopfield 
 # Omar Arias Zepeda A00830966
 # =============================================================
 
